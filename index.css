@@ -1,0 +1,37 @@
+body {
+ width: 300px;
+ background-color: cornsilk;
+}
+.ml {
+ margin: auto;
+ text-align: center;
+}
+.title {
+ text-align: center;
+ font-weight: bold;
+ color: red;
+ font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.container {
+ width: 300px;
+}
+.joke {
+ text-align: justify;
+ top: 40%;
+ min-height: 50px;
+ background-color: gainsboro;
+ font-size: 15px;
+ padding: 10px;
+}
+
+.button {
+ background-color: RED;
+ border: none;
+ color: white;
+ padding: 5px;
+ text-align: center;
+ text-decoration: none;
+ font-size: 12px;
+ font-weight: bold;
+ margin-bottom: 10px;
+}
